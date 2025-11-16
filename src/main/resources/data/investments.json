@@ -1,0 +1,273 @@
+[
+  {
+    "fundId": "69198097f2ac5dd18f7f1c24",
+    "name": "AlphaTech Corp",
+    "assetClass": "Equity",
+    "purchaseDate": "2019-05-10T00:00:00Z",
+    "quantity": 10000,
+    "purchasePricePerUnit": 45.5,
+    "currentMarketValue": 620000.0,
+    "createdAt": "2019-05-11T10:00:00Z",
+    "updatedAt": "2024-11-01T09:00:00Z"
+  },
+  {
+    "fundId": "69198097f2ac5dd18f7f1c24",
+    "name": "MediLife Holdings",
+    "assetClass": "Equity",
+    "purchaseDate": "2020-02-20T00:00:00Z",
+    "quantity": 8000,
+    "purchasePricePerUnit": 38.0,
+    "currentMarketValue": 420000.0,
+    "createdAt": "2020-02-21T09:30:00Z",
+    "updatedAt": "2024-10-30T12:15:00Z"
+  },
+  {
+    "fundId": "69198097f2ac5dd18f7f1c24",
+    "name": "NextGen Software Inc",
+    "assetClass": "Equity",
+    "purchaseDate": "2021-08-01T00:00:00Z",
+    "quantity": 12000,
+    "purchasePricePerUnit": 52.75,
+    "currentMarketValue": 780000.0,
+    "createdAt": "2021-08-02T11:00:00Z",
+    "updatedAt": "2024-11-02T14:45:00Z"
+  },
+
+  {
+    "fundId": "69198097f2ac5dd18f7f1c25",
+    "name": "US Treasury 10Y 2030",
+    "assetClass": "Bond",
+    "purchaseDate": "2018-03-01T00:00:00Z",
+    "quantity": 5000,
+    "purchasePricePerUnit": 101.25,
+    "currentMarketValue": 515000.0,
+    "createdAt": "2018-03-02T08:30:00Z",
+    "updatedAt": "2024-10-15T10:20:00Z"
+  },
+  {
+    "fundId": "69198097f2ac5dd18f7f1c25",
+    "name": "Global Corp Bond 2029",
+    "assetClass": "Bond",
+    "purchaseDate": "2019-11-12T00:00:00Z",
+    "quantity": 4000,
+    "purchasePricePerUnit": 99.8,
+    "currentMarketValue": 402000.0,
+    "createdAt": "2019-11-13T09:10:00Z",
+    "updatedAt": "2024-10-25T13:00:00Z"
+  },
+  {
+    "fundId": "69198097f2ac5dd18f7f1c25",
+    "name": "Municipal Bond Fund A",
+    "assetClass": "Bond",
+    "purchaseDate": "2020-07-05T00:00:00Z",
+    "quantity": 6000,
+    "purchasePricePerUnit": 100.5,
+    "currentMarketValue": 606000.0,
+    "createdAt": "2020-07-06T10:40:00Z",
+    "updatedAt": "2024-11-01T11:30:00Z"
+  },
+
+  {
+    "fundId": "69198097f2ac5dd18f7f1c26",
+    "name": "Europe Select ETF",
+    "assetClass": "Equity ETF",
+    "purchaseDate": "2020-09-10T00:00:00Z",
+    "quantity": 7000,
+    "purchasePricePerUnit": 60.0,
+    "currentMarketValue": 455000.0,
+    "createdAt": "2020-09-11T09:00:00Z",
+    "updatedAt": "2024-10-28T15:30:00Z"
+  },
+  {
+    "fundId": "69198097f2ac5dd18f7f1c26",
+    "name": "Asia Growth Leaders",
+    "assetClass": "Equity",
+    "purchaseDate": "2021-03-15T00:00:00Z",
+    "quantity": 9000,
+    "purchasePricePerUnit": 42.3,
+    "currentMarketValue": 395000.0,
+    "createdAt": "2021-03-16T10:00:00Z",
+    "updatedAt": "2024-11-03T12:10:00Z"
+  },
+  {
+    "fundId": "69198097f2ac5dd18f7f1c26",
+    "name": "Latin America Value ETF",
+    "assetClass": "Equity ETF",
+    "purchaseDate": "2019-12-05T00:00:00Z",
+    "quantity": 6500,
+    "purchasePricePerUnit": 35.75,
+    "currentMarketValue": 310000.0,
+    "createdAt": "2019-12-06T11:20:00Z",
+    "updatedAt": "2024-10-22T09:50:00Z"
+  },
+
+  {
+    "fundId": "69198097f2ac5dd18f7f1c27",
+    "name": "US REIT Index",
+    "assetClass": "REIT",
+    "purchaseDate": "2017-04-01T00:00:00Z",
+    "quantity": 8000,
+    "purchasePricePerUnit": 30.2,
+    "currentMarketValue": 290000.0,
+    "createdAt": "2017-04-02T10:40:00Z",
+    "updatedAt": "2024-10-29T16:00:00Z"
+  },
+  {
+    "fundId": "69198097f2ac5dd18f7f1c27",
+    "name": "Global Property Trust",
+    "assetClass": "REIT",
+    "purchaseDate": "2018-10-20T00:00:00Z",
+    "quantity": 5500,
+    "purchasePricePerUnit": 41.1,
+    "currentMarketValue": 260000.0,
+    "createdAt": "2018-10-21T11:00:00Z",
+    "updatedAt": "2024-10-30T13:05:00Z"
+  },
+  {
+    "fundId": "69198097f2ac5dd18f7f1c27",
+    "name": "Commercial REIT Fund",
+    "assetClass": "REIT",
+    "purchaseDate": "2019-06-15T00:00:00Z",
+    "quantity": 6200,
+    "purchasePricePerUnit": 37.8,
+    "currentMarketValue": 252000.0,
+    "createdAt": "2019-06-16T09:30:00Z",
+    "updatedAt": "2024-10-25T10:10:00Z"
+  },
+
+  {
+    "fundId": "69198097f2ac5dd18f7f1c28",
+    "name": "SolarEdge Renewables",
+    "assetClass": "Equity",
+    "purchaseDate": "2021-01-05T00:00:00Z",
+    "quantity": 4000,
+    "purchasePricePerUnit": 55.0,
+    "currentMarketValue": 250000.0,
+    "createdAt": "2021-01-06T10:10:00Z",
+    "updatedAt": "2024-11-01T09:40:00Z"
+  },
+  {
+    "fundId": "69198097f2ac5dd18f7f1c28",
+    "name": "Green Infrastructure Bonds",
+    "assetClass": "Bond",
+    "purchaseDate": "2021-09-10T00:00:00Z",
+    "quantity": 3000,
+    "purchasePricePerUnit": 101.0,
+    "currentMarketValue": 305000.0,
+    "createdAt": "2021-09-11T09:30:00Z",
+    "updatedAt": "2024-10-26T14:20:00Z"
+  },
+  {
+    "fundId": "69198097f2ac5dd18f7f1c28",
+    "name": "Clean Energy ETF",
+    "assetClass": "Equity ETF",
+    "purchaseDate": "2022-03-01T00:00:00Z",
+    "quantity": 5000,
+    "purchasePricePerUnit": 48.25,
+    "currentMarketValue": 260000.0,
+    "createdAt": "2022-03-02T11:00:00Z",
+    "updatedAt": "2024-11-02T10:05:00Z"
+  },
+
+  {
+    "fundId": "69198097f2ac5dd18f7f1c29",
+    "name": "US Equity Index Fund",
+    "assetClass": "Equity",
+    "purchaseDate": "2016-01-15T00:00:00Z",
+    "quantity": 10000,
+    "purchasePricePerUnit": 32.1,
+    "currentMarketValue": 520000.0,
+    "createdAt": "2016-01-16T09:00:00Z",
+    "updatedAt": "2024-10-31T13:30:00Z"
+  },
+  {
+    "fundId": "69198097f2ac5dd18f7f1c29",
+    "name": "Aggregate Bond Index",
+    "assetClass": "Bond",
+    "purchaseDate": "2016-01-15T00:00:00Z",
+    "quantity": 9000,
+    "purchasePricePerUnit": 99.9,
+    "currentMarketValue": 905000.0,
+    "createdAt": "2016-01-16T09:05:00Z",
+    "updatedAt": "2024-10-31T13:35:00Z"
+  },
+  {
+    "fundId": "69198097f2ac5dd18f7f1c29",
+    "name": "Global Equity Income",
+    "assetClass": "Equity",
+    "purchaseDate": "2018-05-10T00:00:00Z",
+    "quantity": 7000,
+    "purchasePricePerUnit": 40.5,
+    "currentMarketValue": 345000.0,
+    "createdAt": "2018-05-11T10:10:00Z",
+    "updatedAt": "2024-10-25T16:00:00Z"
+  },
+
+  {
+    "fundId": "69198097f2ac5dd18f7f1c2a",
+    "name": "CloudSphere Inc",
+    "assetClass": "Equity",
+    "purchaseDate": "2021-08-05T00:00:00Z",
+    "quantity": 6000,
+    "purchasePricePerUnit": 72.3,
+    "currentMarketValue": 490000.0,
+    "createdAt": "2021-08-06T09:30:00Z",
+    "updatedAt": "2024-11-04T10:00:00Z"
+  },
+  {
+    "fundId": "69198097f2ac5dd18f7f1c2a",
+    "name": "AI Dynamics Corp",
+    "assetClass": "Equity",
+    "purchaseDate": "2022-01-20T00:00:00Z",
+    "quantity": 4500,
+    "purchasePricePerUnit": 88.0,
+    "currentMarketValue": 420000.0,
+    "createdAt": "2022-01-21T11:20:00Z",
+    "updatedAt": "2024-11-05T11:50:00Z"
+  },
+  {
+    "fundId": "69198097f2ac5dd18f7f1c2a",
+    "name": "CyberSecure Holdings",
+    "assetClass": "Equity",
+    "purchaseDate": "2022-09-10T00:00:00Z",
+    "quantity": 5200,
+    "purchasePricePerUnit": 64.4,
+    "currentMarketValue": 355000.0,
+    "createdAt": "2022-09-11T10:40:00Z",
+    "updatedAt": "2024-11-06T09:30:00Z"
+  },
+
+  {
+    "fundId": "69198097f2ac5dd18f7f1c2b",
+    "name": "BRIC Value Fund",
+    "assetClass": "Equity",
+    "purchaseDate": "2018-02-15T00:00:00Z",
+    "quantity": 6500,
+    "purchasePricePerUnit": 28.9,
+    "currentMarketValue": 240000.0,
+    "createdAt": "2018-02-16T09:15:00Z",
+    "updatedAt": "2024-10-18T13:00:00Z"
+  },
+  {
+    "fundId": "69198097f2ac5dd18f7f1c2b",
+    "name": "Frontier Markets ETF",
+    "assetClass": "Equity ETF",
+    "purchaseDate": "2019-07-01T00:00:00Z",
+    "quantity": 4800,
+    "purchasePricePerUnit": 33.2,
+    "currentMarketValue": 190000.0,
+    "createdAt": "2019-07-02T10:00:00Z",
+    "updatedAt": "2024-10-20T11:30:00Z"
+  },
+  {
+    "fundId": "69198097f2ac5dd18f7f1c2b",
+    "name": "EM Small Cap Value",
+    "assetClass": "Equity",
+    "purchaseDate": "2020-10-10T00:00:00Z",
+    "quantity": 5200,
+    "purchasePricePerUnit": 27.5,
+    "currentMarketValue": 205000.0,
+    "createdAt": "2020-10-11T09:30:00Z",
+    "updatedAt": "2024-10-27T12:40:00Z"
+  }
+]
