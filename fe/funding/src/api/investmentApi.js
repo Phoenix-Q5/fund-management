@@ -1,5 +1,5 @@
 const BASE_URL =
-    process.env.REACT_APP_API_BASE_URL || "http://localhost:8081/api";
+    process.env.REACT_APP_API_BASE_URL || "https://fund-management-3me1.onrender.com/api";
 
 async function handleResponse(res) {
     if (!res.ok) {
