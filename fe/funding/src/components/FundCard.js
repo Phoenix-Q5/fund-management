@@ -1,4 +1,5 @@
 import React from "react";
+import { Pencil, Trash2 } from "lucide-react";
 
 function FundCard({ fund, onSelect, onEdit, onDelete }) {
     return (
@@ -45,7 +46,7 @@ function FundCard({ fund, onSelect, onEdit, onDelete }) {
                                 onEdit && onEdit(fund);
                             }}
                         >
-                            Edit
+                            <Pencil className="w-4 h-4" />
                         </button>
                         <button
                             type="button"
@@ -55,7 +56,7 @@ function FundCard({ fund, onSelect, onEdit, onDelete }) {
                                 onDelete && onDelete(fund);
                             }}
                         >
-                            Delete
+                            <Trash2 className="w-4 h-4" />
                         </button>
                     </div>
                 </div>

@@ -1,4 +1,5 @@
 import React from "react";
+import { Pencil, Trash2 } from "lucide-react";
 
 function InvestmentList({ investments, onEdit, onDelete }) {
     if (!investments || investments.length === 0) {
@@ -42,14 +43,14 @@ function InvestmentList({ investments, onEdit, onDelete }) {
                                 className="text-xs px-2 py-1 border rounded mr-1 hover:bg-gray-100"
                                 onClick={() => onEdit && onEdit(inv)}
                             >
-                                Edit
+                                <Pencil className="w-4 h-4" />
                             </button>
                             <button
                                 type="button"
                                 className="text-xs px-2 py-1 border rounded text-red-700 hover:bg-red-50"
                                 onClick={() => onDelete && onDelete(inv)}
                             >
-                                Delete
+                                <Trash2 className="w-4 h-4" />
                             </button>
                         </td>
                     </tr>
