@@ -6,7 +6,7 @@ plugins {
 }
 
 group = "com.phoenix"
-version = "0.0.1-SNAPSHOT"
+version = "v1"
 description = "funding"
 
 java {
