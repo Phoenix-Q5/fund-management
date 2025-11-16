@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
+import { Pencil, Trash2 } from "lucide-react";
 
 import {
     fetchFund,
@@ -203,14 +204,14 @@ function FundDetailPage() {
                                 className="px-3 py-1 border rounded text-sm"
                                 onClick={() => setEditingFund(true)}
                             >
-                                Edit Fund
+                                <Pencil className="w-4 h-4" />
                             </button>
                             <button
                                 type="button"
                                 className="px-3 py-1 border rounded text-sm text-red-700"
                                 onClick={handleDeleteFund}
                             >
-                                Delete Fund
+                                <Trash2 className="w-4 h-4" />
                             </button>
                         </div>
                     </>

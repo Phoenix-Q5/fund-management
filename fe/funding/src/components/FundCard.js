@@ -36,7 +36,6 @@ function FundCard({ fund, onSelect, onEdit, onDelete }) {
               {fund.ytdReturnPercentage}%
             </span>
                     </div>
-
                     <div className="mt-2 flex gap-1 justify-end">
                         <button
                             type="button"

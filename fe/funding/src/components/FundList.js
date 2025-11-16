@@ -1,5 +1,6 @@
 import React from "react";
 import FundCard from "./FundCard";
+import Legend from "./Legend";
 
 function FundList({ funds, onSelect, onEdit, onDelete, onCreateNew }) {
     return (
@@ -30,7 +31,9 @@ function FundList({ funds, onSelect, onEdit, onDelete, onCreateNew }) {
                     />
                 ))
             )}
+            <Legend />
         </div>
+
     );
 }
 
